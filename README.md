@@ -22,3 +22,6 @@ Run the app locally and visit http://localhost:3000
  
 ## Tech Stack 
 - React, Node.js, MongoDB, WebRTC, Solidity 
+ 
+## Accessibility 
+This project aims to follow basic accessibility best practices. Improvements welcome. 
