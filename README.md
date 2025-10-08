@@ -16,3 +16,6 @@ Created by: Ladi Nishant - https://github.com/ladi-nishant
 1. Clone repo 
 2. Install dependencies: npm install 
 3. Start: npm run dev 
+ 
+## Usage 
+Run the app locally and visit http://localhost:3000 
