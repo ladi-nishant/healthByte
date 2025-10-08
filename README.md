@@ -11,3 +11,8 @@ Created by: Ladi Nishant - https://github.com/ladi-nishant
 - Doctor/patient booking 
 - Video consultations (WebRTC) 
 - E-commerce for medicines 
+ 
+## Installation 
+1. Clone repo 
+2. Install dependencies: npm install 
+3. Start: npm run dev 
